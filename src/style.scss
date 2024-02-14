@@ -1,0 +1,12 @@
+@import "bootstrap/scss/bootstrap.scss";
+
+
+@media (min-width: 768px) {
+  #navbarText {
+    display: flex;
+    justify-content: end;
+  }
+}
+
+
+.input-group-addon{color:#ff0000; background-color: #ffffff;}
