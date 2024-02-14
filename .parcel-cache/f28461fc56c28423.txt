@@ -52,9 +52,9 @@
 111C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\lmdb\dependencies\lz4\lib\dll\liblz4.def133523057681780868 0
 148C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\moveGroupAttrsToElems.js133523057679458500 0
 103C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\css-tree\cjs\lexer\structure.cjs133523057682006478 0
-63C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\.idea133523741143949371 1
+63C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\.idea133523995563536700 1
 94C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\json5\dist\index.min.js133523057676067303 0
-61C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\src133523741143411919 1
+61C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\src133523995286232288 1
 101C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\async\internal\withoutIndex.js133523066411405108 0
 77C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\braces133523057676087297 1
 134C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeXMLNS.js133523057680847480 0
@@ -80,7 +80,7 @@
 91C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\resolve-from\license133523057675146115 0
 100C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\bootstrap\scss\_progress.scss133523057431765344 0
 98C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@parcel\transformer-postcss133523057677174402 1
-62C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\dist133523741144164251 1
+62C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\dist133523995286952236 1
 94C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\escalade\dist\index.mjs133523057676311478 0
 123C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@parcel\runtime-js\src\helpers\browser\css-loader.js133523057677599318 0
 111C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\utility-types\dist\aliases-and-guards.js133523057674900882 0
@@ -123,7 +123,7 @@
 86C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@parcel\workers133523057680298456 1
 68C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\src\images133523055796914154 1
 116C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\gh-pages\node_modules\commander\lib\option.js133523066410731501 0
-72C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\src\index.html133523741143411919 0
+72C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\src\index.html133523995286232288 0
 97C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\ordered-binary\.nyc_output133523057676890714 1
 85C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\async\internal133523066411405108 1
 110C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@parcel\transformer-babel\src\babel7.js133523057675358500 0
@@ -136,7 +136,7 @@
 102C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\caniuse-lite\data\regions\CO.js133523057681946669 0
 93C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\csso\cjs\clean\Raw.cjs133523057679311610 0
 100C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\sass\types\legacy\render.d.ts133523073218530584 0
-72C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\src\style.scss133523705484621746 0
+72C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\src\style.scss133523993751275675 0
 125C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\README.md133523057682485551 0
 92C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\entities\package.json133523057677579301 0
 97C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@parcel\fs\src\MemoryFS.js133523057676880653 0
@@ -245,7 +245,7 @@
 93C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\msgpackr\dist\node.cjs133523057676122803 0
 133C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\at-rules.json133523057676491421 0
 87C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\is-glob\index.js133523057674797822 0
-81C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\dist\index.b2d9cf43.css133523738312007873 0
+81C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\dist\index.b2d9cf43.css133523993776345518 0
 83C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\cli-progress133523057677825399 1
 107C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@popperjs\core\lib\utils\debounce.js133523057430376548 0
 115C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133523057676933152 0
@@ -547,7 +547,7 @@
 97C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\msgpackr\dist\node.cjs.map133523057679998039 0
 107C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\csso\node_modules\css-tree\lib\utils133523057683692763 1
 85C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\supports-color133523057675787010 1
-85C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\dist\index.b2d9cf43.css.map133523738312007873 0
+85C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\dist\index.b2d9cf43.css.map133523993776345518 0
 100C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\cli-progress\lib\formatter.js133523057677138446 0
 100C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\react-refresh\build-info.json133523057676890714 0
 96C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\posthtml-parser\readme.md133523057676627099 0
@@ -7020,7 +7020,7 @@
 122C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@babel\code-frame\node_modules\color-name\README.md133523057675226223 0
 128C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@babel\code-frame\node_modules\color-convert\CHANGELOG.md133523057674864218 0
 116C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@babel\code-frame\node_modules\chalk\index.js133523057674874227 0
-77C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\.idea\workspace.xml133523741143944321 0
+77C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\.idea\workspace.xml133523995563518600 0
 115C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@babel\code-frame\node_modules\chalk\license133523057675587459 0
 120C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@babel\code-frame\node_modules\chalk\package.json133523057674557347 0
 113C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@babel\code-frame\node_modules\chalk\types133523057676542616 1
@@ -7055,7 +7055,7 @@
 97C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\documentation\images\presentation-2.png133523048672442722 0
 91C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\documentation\images\tarifs-1.png133523048672598971 0
 97C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\dist\bootstrap-tp1-proj.59712999.js.map133523092626406270 0
-73C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\dist\index.html133523741144164251 0
+73C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\dist\index.html133523995286952236 0
 79C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\dist\main.4d6bcbeb.js133523085803414891 0
 83C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\dist\main.4d6bcbeb.js.map133523085803457034 0
 85C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\.idea\jsLibraryMappings.xml133523708418154017 0
