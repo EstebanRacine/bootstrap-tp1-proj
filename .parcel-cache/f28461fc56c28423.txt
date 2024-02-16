@@ -60,9 +60,9 @@
 103C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\css-tree\cjs\lexer\structure.cjs133523057682006478 0
 148C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\moveGroupAttrsToElems.js133523057679458500 0
 112C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\bootstrap-icons\icons\suit-heart-fill.svg133525410379688035 0
-63C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\.idea133525467618529203 1
+63C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\.idea133525469108952273 1
 94C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\json5\dist\index.min.js133523057676067303 0
-61C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\src133525467617921173 1
+61C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\src133525469108474025 1
 77C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\braces133523057676087297 1
 101C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\async\internal\withoutIndex.js133523066411405108 0
 134C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeXMLNS.js133523057680847480 0
@@ -156,7 +156,7 @@
 93C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\csso\cjs\clean\Raw.cjs133523057679311610 0
 106C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\bootstrap-icons\icons\chat-fill.svg133525410366083223 0
 100C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\sass\types\legacy\render.d.ts133523073218530584 0
-72C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\src\style.scss133525458425411054 0
+72C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\src\style.scss133525469108474025 0
 92C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\entities\package.json133523057677579301 0
 125C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\README.md133523057682485551 0
 100C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\node_modules\weak-lru-cache\dist\index.cjs133523057674582245 0
@@ -9126,4 +9126,4 @@
 85C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\.idea\jsLibraryMappings.xml133523708418154017 0
 71C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\.idea\php.xml133523056260029214 0
 71C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\.idea\vcs.xml133523054517274950 0
-77C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\.idea\workspace.xml133525467618469225 0
+77C:\Users\racinee\Documents\dev\Projets\bootstrap-tp1-proj\.idea\workspace.xml133525469108952273 0
