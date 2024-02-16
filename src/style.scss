@@ -1,7 +1,8 @@
 @import "bootstrap/scss/bootstrap.scss";
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
 
 
-@media (min-width: 768px) {
+@include media-breakpoint-up(md) {
   #navbarText {
     display: flex;
     justify-content: end;
@@ -9,11 +10,11 @@
 }
 
 .h-card{
-  min-height: 400px;
+  min-height: 250px;
 }
 
 .h-card-center{
-  min-height: 441px;
+  min-height: 291px;
 }
 
 .mt-41px{
@@ -29,4 +30,12 @@
   margin-bottom: 41px;
 }
 
-.input-group-addon{color:#ff0000; background-color: #ffffff;}
+@include media-breakpoint-up(lg) {
+  .h-card{
+    min-height: 422px;
+  }
+
+  .h-card-center{
+    min-height: 463px;
+  }
+}

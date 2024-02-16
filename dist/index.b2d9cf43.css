@@ -1,3 +1,4 @@
+@import "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css";
 :root, [data-bs-theme="light"] {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -13210,11 +13211,11 @@ textarea.form-control-lg {
 }
 
 .h-card {
-  min-height: 400px;
+  min-height: 250px;
 }
 
 .h-card-center {
-  min-height: 441px;
+  min-height: 291px;
 }
 
 .mt-41px {
@@ -13230,9 +13231,14 @@ textarea.form-control-lg {
   margin-bottom: 41px;
 }
 
-.input-group-addon {
-  color: red;
-  background-color: #fff;
+@media (width >= 992px) {
+  .h-card {
+    min-height: 422px;
+  }
+
+  .h-card-center {
+    min-height: 463px;
+  }
 }
 
 /*# sourceMappingURL=index.b2d9cf43.css.map */
